@@ -620,6 +620,39 @@ hr {
     width: 58px;
     height: 58px;
     line-height: 67.5px; }
+  .tile.tile-2 .tile-inner {
+    background: url(../img/2.png) 0 0 / 58px 58px no-repeat;
+  }
+  .tile.tile-4 .tile-inner {
+    background: url(../img/4.png) 0 0 / 58px 58px no-repeat;
+  }
+  .tile.tile-8 .tile-inner {
+    background: url(../img/8.png) 0 0 / 58px 58px no-repeat;
+  }
+  .tile.tile-16 .tile-inner {
+    background: url(../img/16.png) 0 0 / 58px 58px no-repeat;
+  }
+  .tile.tile-32 .tile-inner {
+    background: url(../img/32.png) 0 0 / 58px 58px no-repeat;
+  }
+  .tile.tile-64 .tile-inner {
+    background: url(../img/64.png) 0 0 / 58px 58px no-repeat;
+  }
+  .tile.tile-128 .tile-inner {
+    background: url(../img/128.png) 0 0 / 58px 58px no-repeat;
+  }
+  .tile.tile-256 .tile-inner {
+    background: url(../img/256.png) 0 0 / 58px 58px no-repeat;
+  }
+  .tile.tile-512 .tile-inner {
+    background: url(../img/512.png) 0 0 / 58px 58px no-repeat;
+  }
+  .tile.tile-1024 .tile-inner {
+    background: url(../img/1024.png) 0 0 / 58px 58px no-repeat;
+  }
+  .tile.tile-2048 .tile-inner {
+    background: url(../img/2048.png) 0 0 / 58px 58px no-repeat;
+  }
   .tile.tile-position-1-1 {
     -webkit-transform: translate(0px, 0px);
     -moz-transform: translate(0px, 0px);
